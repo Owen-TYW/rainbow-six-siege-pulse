@@ -235,4 +235,4 @@ are a config that drifted over many small edits.
 
 ---
 
-*rainbow-six-siege-pulse · Updated 2026-10-30 · Shared under the MIT License*
+*rainbow-six-siege-pulse · Updated 2026-10-31 · Shared under the MIT License*
